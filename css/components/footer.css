@@ -1,0 +1,18 @@
+.footer{
+  background: #2c2b2b;
+  text-align: center;
+  padding: 60px;
+}
+
+
+
+
+.icon{
+  color: #1EDD88;
+  font-family: "Font Awesome 6 Brands";
+  padding: 10px;
+}
+
+.footer p{
+  color: #6B6C6C;
+}
